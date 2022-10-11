@@ -2,24 +2,24 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd',
+  rootNotionPageId: 'c0fbf07049ed4347bb2a3cd04382fddd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  rootNotionSpaceId: https://Cherrien.notion.so/Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd,
 
   // basic site info (required)
   name: 'Cherrien',
-  domain: 'https://www.notion.so/Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd',
+  domain: 'https://Cherrien.notion.so/Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd',
   author: 'Cherrien',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'ZqrJudy',
+  github: 'qianrunz',
+  // linkedin: 'fisch2', //
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -54,11 +54,11 @@ export default siteConfig({
   // navigationLinks: [
   //   {
   //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //     pageId: 'About-c0fbf07049ed4347bb2a3cd04382fddd'
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //     pageId: 'Contact-6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
 })
