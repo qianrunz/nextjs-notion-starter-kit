@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: spangle-metal-e9c,
 
   // basic site info (required)
-  name: 'Cherrien's Cafe,
+  name: 'Cherrien Cafe',
   domain: 'https://www.notion.so/Cherrien-s-Cafe-264728d4f68841298644be520ab98fa5',
   author: 'Cherrien',
 
