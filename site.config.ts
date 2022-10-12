@@ -2,15 +2,15 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c0fbf07049ed4347bb2a3cd04382fddd',
+  rootNotionPageId: '264728d4f68841298644be520ab98fa5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: https://Cherrien.notion.so/Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd,
+  rootNotionSpaceId: spangle-metal-e9c,
 
   // basic site info (required)
-  name: 'Cherrien',
-  domain: 'https://Cherrien.notion.so/Cherrien-s-corner-c0fbf07049ed4347bb2a3cd04382fddd',
+  name: 'Cherrien's Cafe,
+  domain: 'https://www.notion.so/Cherrien-s-Cafe-264728d4f68841298644be520ab98fa5',
   author: 'Cherrien',
 
   // open graph metadata (optional)
